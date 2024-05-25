@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         signupForm.addEventListener('submit', function(event) {
             event.preventDefault();
             alert('Sign Up form submitted!');
-            window.location.href = 'index.html';
+            window.location.href = 'Gadfix.html';
         });
     }
 
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         loginForm.addEventListener('submit', function(event) {
             event.preventDefault();
             alert('Login form submitted!');
-            window.location.href = 'index.html';
+            window.location.href = 'Gadfix.html';
         });
     }
 });
